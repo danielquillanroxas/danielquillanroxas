@@ -2,13 +2,11 @@
 
 Master's student in Applied Data Science at [TED University](https://www.tedu.edu.tr/), doing research in biomedical AI. I work on retrieval-augmented generation, large language models, and knowledge graphs for healthcare.
 
-I built [Token by Token](https://token-by-token.com/), a collaborative blog where we break down ML concepts one token at a time.
-
 ---
 
 ### Projects
 
-- [**Wikinnections**](https://github.com/danielquillanroxas/wikinnections) - Knowledge graph explorer that finds and visualizes connections between any two entities using Wikidata. Bidirectional BFS pathfinding, interactive graph visualization, popularity-based filtering, and clickable edges/nodes to block shortcuts and force creative paths. Python/FastAPI + React/Cytoscape.js. [https://wikinnections.onrender.com](https://wikinnections.onrender.com/)
+- [**Wikinnections**](https://github.com/danielquillanroxas/wikinnections) - Knowledge graph explorer that finds and visualizes connections between any two entities using Wikidata. Bidirectional BFS pathfinding, interactive graph visualization, popularity-based filtering, and clickable edges/nodes to block shortcuts and force creative paths. Python/FastAPI + React/Cytoscape.js. [wikinnections.onrender.com](https://wikinnections.onrender.com/)
 
 - [**Token by Token**](https://github.com/danielquillanroxas/token-by-token) - Collaborative blog breaking down ML, NLP, and AI concepts. Built with Astro. [token-by-token.com](https://token-by-token.com/)
 

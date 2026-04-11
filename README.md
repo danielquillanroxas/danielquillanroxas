@@ -17,7 +17,7 @@ I built [Token by Token](https://token-by-token.com/), a collaborative blog wher
 ### Current Research
 
 - **PubMed-GraphRAG** (Master's Thesis) - Hybrid FAISS + Neo4j retrieval over 12.5M PubMed papers (20M nodes, 266M relationships) | [Dataset](https://huggingface.co/datasets/danielquillanroxas/pubmed-graphrag-data)
-- **EmTR-TTS** - Building the first emotion-controllable Turkish TTS model by fine-tuning F5-TTS with emotion tag tokens on curated Turkish emotional speech data
+- **EmTR-TTS** - Emotion-controllable Turkish TTS via fine-tuning F5-TTS with emotion tag tokens on curated Turkish emotional speech data
 
 ### Teaching
 

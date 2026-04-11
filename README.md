@@ -22,17 +22,3 @@ I built [Token by Token](https://token-by-token.com/), a collaborative blog wher
 ### Teaching
 
 - Built the course materials for [ADS525: Generative AI Engineering with LLMs](https://github.com/hemekci/ADS525) as a graduate TA
-
-### Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=danielquillanroxas&show_icons=true&theme=tokyonight&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=danielquillanroxas&show_icons=true&theme=default&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=danielquillanroxas&show_icons=true&theme=default&hide_border=true" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=danielquillanroxas&layout=compact&theme=tokyonight&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=danielquillanroxas&layout=compact&theme=default&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielquillanroxas&layout=compact&theme=default&hide_border=true" />
-</picture>

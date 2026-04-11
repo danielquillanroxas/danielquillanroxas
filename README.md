@@ -1,6 +1,6 @@
 # Hi, I'm Daniel
 
-Master's student in Applied Data Science at [TED University](https://www.tedu.edu.tr/), working on biomedical AI. My research is on retrieval-augmented generation, large language models, and knowledge graphs for healthcare.
+Master's student in Applied Data Science at [TED University](https://www.tedu.edu.tr/), doing research in biomedical AI. I work on retrieval-augmented generation, large language models, and knowledge graphs for healthcare.
 
 I also co-author [Token by Token](https://token-by-token.com/), a blog where we break down ML concepts one token at a time.
 
@@ -8,16 +8,16 @@ I also co-author [Token by Token](https://token-by-token.com/), a blog where we 
 
 ### Publications
 
-- [**Comparative Analysis of Medical-Domain and General-Purpose Large Language Models**](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174439863.35906289/v2) - *Journal of Polytechnic*
+- [**Comparative Analysis of Medical-Domain and General-Purpose Large Language Models**](https://dergipark.org.tr/tr/pub/politeknik/article/1719005) - *Journal of Polytechnic*
   Evaluated 8 LLMs across 11,000 medical Q&A pairs. General-purpose models outperformed domain-specific ones across all metrics.
 
 - [**Dissecting Medical RAG: Why Reranking Matters More Than Complexity in Question Answering**](https://dergipark.org.tr/en/pub/bsengineering/article/1849342) - *Black Sea Journal of Engineering*
-  Ablation study across 7 RAG configurations on 476 medical questions. Reranking turned out to be essential while added complexity actually hurt performance.
+  Ablation study across 7 RAG configurations on 476 medical questions. Reranking turned out to be essential while added complexity hurt performance.
 
-### Current Work
+### Current Research
 
 - **PubMed-GraphRAG** (Master's Thesis) - Hybrid FAISS + Neo4j retrieval over 12.5M PubMed papers (20M nodes, 266M relationships)
-- **Turkish BioNER** - NER for Turkish medical texts, 6-class entity schema with hybrid LLM + human annotation
+- **EmTR-TTS** - Building the first emotion-controllable Turkish TTS model by fine-tuning F5-TTS with emotion tag tokens on curated Turkish emotional speech data
 
 ### Tech Stack
 
@@ -31,16 +31,6 @@ I also co-author [Token by Token](https://token-by-token.com/), a blog where we 
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
-### Projects
-
-| Project | Description |
-|---------|-------------|
-| [Token by Token](https://github.com/danielquillanroxas/token-by-token) | ML/NLP blog built with Astro |
-| [Background Removal](https://github.com/danielquillanroxas/Background-Removal) | Streamlit app using OpenCV and SAM |
-| [Instance Segmentation](https://github.com/danielquillanroxas/Instance-Segmentation-Inovako) | CV segmentation pipeline |
-| [Data Science Projects](https://github.com/danielquillanroxas/Data-Science-Projects) | Collection of DS notebooks |
-| [Time Series Notes](https://github.com/danielquillanroxas/TS-NotesNNotebooks) | Notes from time series coursework |
 
 ### Stats
 

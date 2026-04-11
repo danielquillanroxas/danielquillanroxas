@@ -2,7 +2,7 @@
 
 Master's student in Applied Data Science at [TED University](https://www.tedu.edu.tr/), doing research in biomedical AI. I work on retrieval-augmented generation, large language models, and knowledge graphs for healthcare.
 
-I also co-author [Token by Token](https://token-by-token.com/), a blog where we break down ML concepts one token at a time.
+I built [Token by Token](https://token-by-token.com/), a collaborative blog where we break down ML concepts one token at a time.
 
 ---
 

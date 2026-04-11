@@ -6,6 +6,10 @@ I built [Token by Token](https://token-by-token.com/), a collaborative blog wher
 
 ---
 
+### Projects
+
+- [**Wikinnections**](https://github.com/danielquillanroxas/wikinnections) - Knowledge graph explorer that finds and visualizes connections between any two entities using Wikidata. Bidirectional BFS pathfinding, interactive graph visualization, popularity-based filtering, and clickable edges/nodes to block shortcuts and force creative paths. Python/FastAPI + React/Cytoscape.js.
+
 ### Publications
 
 - [**Comparative Analysis of Medical-Domain and General-Purpose Large Language Models**](https://dergipark.org.tr/tr/pub/politeknik/article/1719005) - *Journal of Polytechnic*

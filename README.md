@@ -1,4 +1,4 @@
-# Hi, I'm Daniel
+# Daniel Quillan Roxas
 
 Master's student in Applied Data Science at [TED University](https://www.tedu.edu.tr/), doing research in biomedical AI. I work on retrieval-augmented generation, large language models, and knowledge graphs for healthcare.
 

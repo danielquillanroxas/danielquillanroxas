@@ -1,23 +1,23 @@
 # Hi, I'm Daniel
 
-Master's student in Applied Data Science at [TED University](https://www.tedu.edu.tr/) with a research focus on biomedical AI. I work on retrieval-augmented generation, large language models, and knowledge graphs for healthcare.
+Master's student in Applied Data Science at [TED University](https://www.tedu.edu.tr/), working on biomedical AI. My research is on retrieval-augmented generation, large language models, and knowledge graphs for healthcare.
 
-I co-author [Token by Token](https://token-by-token.com/) — a blog where we break down ML concepts one token at a time.
+I also co-author [Token by Token](https://token-by-token.com/), a blog where we break down ML concepts one token at a time.
 
 ---
 
-### Research & Publications
+### Publications
 
-- **Comparative Analysis of Medical-Domain and General-Purpose Large Language Models** — *Journal of Polytechnic*
-  Evaluated 8 LLMs across 11,000 medical Q&A pairs. Found that general-purpose models unexpectedly outperformed domain-specific ones.
+- [**Comparative Analysis of Medical-Domain and General-Purpose Large Language Models**](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174439863.35906289/v2) - *Journal of Polytechnic*
+  Evaluated 8 LLMs across 11,000 medical Q&A pairs. General-purpose models outperformed domain-specific ones across all metrics.
 
-- **Dissecting Medical RAG: Why Reranking Matters More Than Complexity in Question Answering** — *Black Sea Journal of Engineering*
-  Systematic ablation study across 7 RAG configurations on 476 medical questions. Showed reranking is essential while architectural complexity can hurt performance.
+- [**Dissecting Medical RAG: Why Reranking Matters More Than Complexity in Question Answering**](https://dergipark.org.tr/en/pub/bsengineering/article/1849342) - *Black Sea Journal of Engineering*
+  Ablation study across 7 RAG configurations on 476 medical questions. Reranking turned out to be essential while added complexity actually hurt performance.
 
-### What I'm Working On
+### Current Work
 
-- **PubMed-GraphRAG** (Master's Thesis) — Hybrid FAISS + Neo4j retrieval system over 12.5M PubMed papers with 20M nodes and 266M relationships
-- **Turkish BioNER** — Named entity recognition for Turkish medical texts with a 6-class entity schema and hybrid LLM + human annotation pipeline
+- **PubMed-GraphRAG** (Master's Thesis) - Hybrid FAISS + Neo4j retrieval over 12.5M PubMed papers (20M nodes, 266M relationships)
+- **Turkish BioNER** - NER for Turkish medical texts, 6-class entity schema with hybrid LLM + human annotation
 
 ### Tech Stack
 
@@ -32,17 +32,17 @@ I co-author [Token by Token](https://token-by-token.com/) — a blog where we br
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-### Featured Projects
+### Projects
 
 | Project | Description |
 |---------|-------------|
-| [Token by Token](https://github.com/danielquillanroxas/token-by-token) | Blog on ML, NLP, and transformers — built with Astro |
-| [Background Removal](https://github.com/danielquillanroxas/Background-Removal) | Streamlit app using OpenCV and Segment Anything Model |
-| [Instance Segmentation](https://github.com/danielquillanroxas/Instance-Segmentation-Inovako) | Computer vision segmentation pipeline |
-| [Data Science Projects](https://github.com/danielquillanroxas/Data-Science-Projects) | Collection of data science notebooks |
-| [Time Series Notes](https://github.com/danielquillanroxas/TS-NotesNNotebooks) | Notes and notebooks from time series coursework |
+| [Token by Token](https://github.com/danielquillanroxas/token-by-token) | ML/NLP blog built with Astro |
+| [Background Removal](https://github.com/danielquillanroxas/Background-Removal) | Streamlit app using OpenCV and SAM |
+| [Instance Segmentation](https://github.com/danielquillanroxas/Instance-Segmentation-Inovako) | CV segmentation pipeline |
+| [Data Science Projects](https://github.com/danielquillanroxas/Data-Science-Projects) | Collection of DS notebooks |
+| [Time Series Notes](https://github.com/danielquillanroxas/TS-NotesNNotebooks) | Notes from time series coursework |
 
-### GitHub Stats
+### Stats
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=danielquillanroxas&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -55,7 +55,3 @@ I co-author [Token by Token](https://token-by-token.com/) — a blog where we br
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=danielquillanroxas&layout=compact&theme=default&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielquillanroxas&layout=compact&theme=default&hide_border=true" />
 </picture>
-
----
-
-*Writing to understand, publishing to stay accountable.*

@@ -10,6 +10,10 @@ I built [Token by Token](https://token-by-token.com/), a collaborative blog wher
 
 - [**Wikinnections**](https://github.com/danielquillanroxas/wikinnections) - Knowledge graph explorer that finds and visualizes connections between any two entities using Wikidata. Bidirectional BFS pathfinding, interactive graph visualization, popularity-based filtering, and clickable edges/nodes to block shortcuts and force creative paths. Python/FastAPI + React/Cytoscape.js.
 
+- [**Token by Token**](https://github.com/danielquillanroxas/token-by-token) - Collaborative blog breaking down ML, NLP, and AI concepts. Built with Astro. [token-by-token.com](https://token-by-token.com/)
+
+- [**MediRag-Evaluation**](https://github.com/danielquillanroxas/MediRag-Evalution) - Ablation study across 7 RAG pipeline configurations on 476 medical questions. Evaluates the impact of reranking, chunk size, and retrieval complexity on medical QA performance. Accompanies [the published paper](https://dergipark.org.tr/en/pub/bsengineering/article/1849342).
+
 ### Publications
 
 - [**Comparative Analysis of Medical-Domain and General-Purpose Large Language Models**](https://dergipark.org.tr/tr/pub/politeknik/article/1719005) - *Journal of Polytechnic*

@@ -6,6 +6,8 @@ Master's student in Applied Data Science at [TED University](https://www.tedu.ed
 
 ### Projects
 
+- [**Etymograph**](https://github.com/danielquillanroxas/etymograph) - Etymology knowledge graph explorer built on 22.7M relations across 6.6M words in 5,529 languages. Trace any word's origins, find connections between words across languages, compare cognates side by side, and explore ancestor/descendant chains. Unified from 5 open etymology datasets into a single queryable graph. Python/FastAPI + React/Cytoscape.js. | [Dataset on HuggingFace](https://huggingface.co/datasets/danielquillanroxas/etymograph-unified)
+
 - [**Wikinnections**](https://github.com/danielquillanroxas/wikinnections) - Knowledge graph explorer that finds and visualizes connections between any two entities using Wikidata. Bidirectional BFS pathfinding, interactive graph visualization, popularity-based filtering, and clickable edges/nodes to block shortcuts and force creative paths. Python/FastAPI + React/Cytoscape.js. [wikinnections.onrender.com](https://wikinnections.onrender.com/)
 
 - [**Token by Token**](https://github.com/danielquillanroxas/token-by-token) - Collaborative blog breaking down ML, NLP, and AI concepts. Built with Astro. [token-by-token.com](https://token-by-token.com/)

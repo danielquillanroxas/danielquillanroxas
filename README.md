@@ -23,7 +23,7 @@ Master's student in Applied Data Science at [TED University](https://www.tedu.ed
 ### Current Research
 
 - **PubMed-GraphRAG** (Master's Thesis) - Hybrid FAISS + Neo4j retrieval over 12.5M PubMed papers (20M nodes, 266M relationships) | [Dataset](https://huggingface.co/datasets/danielquillanroxas/pubmed-graphrag-data)
-- **EmTR-TTS** - Emotion-controllable Turkish TTS via fine-tuning F5-TTS with emotion tag tokens on curated Turkish emotional speech data
+- **EmTR-TTS** - Emotion-controllable Turkish TTS via fine-tuning F5-TTS with emotion tag tokens on curated Turkish emotional speech data. Paper website:[danielquillanroxas.github.io/turkish-tts-survey](https://danielquillanroxas.github.io/turkish-tts-survey)
 
 ### Teaching
 

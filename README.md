@@ -1,6 +1,6 @@
 # Daniel Quillan Roxas
 
-Master's student in Applied Data Science at [TED University](https://www.tedu.edu.tr/), Ankara, working in biomedical NLP and speech technology for under-resourced languages. I build the systems, datasets, and benchmarks this research needs, and I try to evaluate them honestly: pre-registered where it counts, with proper uncertainty and limitations stated plainly. Native Filipino speaker.
+Master's student in Applied Data Science at [TED University](https://www.tedu.edu.tr/), Ankara, working in biomedical NLP and speech technology for under-resourced languages. I build the systems, datasets, and benchmarks this research needs, and I try to evaluate them honestly: pre-registered where it counts, with proper uncertainty and limitations stated plainly.
 
 **Focus areas**
 - Biomedical retrieval and knowledge graphs: RAG, evidence, and claim reliability
